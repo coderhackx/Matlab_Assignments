@@ -131,6 +131,9 @@ Image:
 ![image](/Images/pool2.png)
 
 
+## Above Nyquist
+
+
 ```
 %% 1. Generate Analog Signal (conceptual)
 t = 0:0.0001:0.01; % very fine step (continuous-like time)
