@@ -1,10 +1,3 @@
-# Homework
-
-    Modify the MATLAB script:
-
-    Try different sampling frequencies (Below Nyquist, at Nyquist, and above Nyquist).
-    Use different quantization levels (8, 16, 64).
-
 Answers:
 ## Below Nyquist
 
