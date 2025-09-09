@@ -343,7 +343,7 @@ fprintf('Total bits: %d\n', length(bitstream));
 Image:
 ![image](/Images/pool5.png)
 
-#64 
+# 64 
 
 ```
 %% 1. Generate Analog Signal (conceptual)
