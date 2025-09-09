@@ -128,7 +128,7 @@ fprintf('Total bits: %d\n', length(bitstream));
 ```
 
 Image:
-![image](/Images/pool2.png)
+![image](/Images/ss2.png)
 
 
 ## Above Nyquist
@@ -198,7 +198,7 @@ fprintf('Total bits: %d\n', length(bitstream));
 ```
 
 Image:
-![image](/Images/pool3.png)
+![image](/Images/ss3.png)
 
 
 
@@ -270,7 +270,7 @@ fprintf('Total samples: %d\n', length(x_sampled));
 fprintf('Total bits: %d\n', length(bitstream));
 ```
 Image:
-![image](/Images/pool4.png)
+![image](/Images/ss4.png)
 
 
 # 16
@@ -341,7 +341,7 @@ fprintf('Total samples: %d\n', length(x_sampled));
 fprintf('Total bits: %d\n', length(bitstream));
 ```
 Image:
-![image](/Images/pool5.png)
+![image](/Images/ss5.png)
 
 # 64 
 
@@ -411,7 +411,7 @@ fprintf('Total samples: %d\n', length(x_sampled));
 fprintf('Total bits: %d\n', length(bitstream));
 ```
 Image:
-![image](/Images/pool6.png)
+![image](/Images/ss6.png)
 
 
 
