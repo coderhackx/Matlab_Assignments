@@ -64,7 +64,7 @@ fprintf('Analog -> Sampling -> Quantization -> Binary Encoding -> Digital Stream
 fprintf('Bits per sample: %d\n', bits);
 fprintf('Total samples: %d\n', length(x_sampled));
 fprintf('Total bits: %d\n', length(bitstream));  
-```
+ ```
 Image:
-![image](/attachment/pool1.png)
+![image](/Images/pool1.png)
 
