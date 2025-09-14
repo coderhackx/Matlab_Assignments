@@ -78,13 +78,13 @@ grid on; % Enable grid
 
 # images
 
-![image](/images/1.png)
-![image](/images/2.png)
-![image](/images/3.png)
-![image](/images/4.png)
-![image](/images/5.png)
-![image](/images/6.png)
-![image](/images/7.png)
+![image](/Images/1.png)
+![image](/Images/2.png)
+![image](/Images/3.png)
+![image](/Images/4.png)
+![image](/Images/5.png)
+![image](/Images/6.png)
+![image](/Images/7.png)
 
 # Short description
 # Signal Generation in MATLAB
