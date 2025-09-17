@@ -1,4 +1,4 @@
-![image](/images/savonia.png)
+![image](/Images/savonia.png)
 
 # Course Introduction – Digital Signal Processing (DSP)
 
