@@ -137,10 +137,10 @@ fprintf('A5: Poles: '); disp(poles_H.'); fprintf('Zeros: '); disp(zeros_H.');
 fprintf('Saved figures: A5_pz.png, A5_freq.png, A5_input.png, A5_output.png\n');
 ```
 
-![image](s1.png)
-![image](s2.png)
-![image](s3.png)
-![image](s4.png)
+![image](https://github.com/coderhackx/Matlab_Assignments/blob/main/Images/s1.png)
+![image](https://github.com/coderhackx/Matlab_Assignments/blob/main/Images/s2.png)
+![image](https://github.com/coderhackx/Matlab_Assignments/blob/main/Images/s3.png)
+![image](https://github.com/coderhackx/Matlab_Assignments/blob/main/Images/s4.png)
 
 # A1 – Finite Sequences to Polynomials
 
