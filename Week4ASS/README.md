@@ -23,4 +23,4 @@ This project demonstrates how to compute and analyze the **frequency response** 
    [z, p, k] = tf2zpk(b, a);
    ```
 #Plot
-![Magnitude and Pole–Zero Plots]([ex10pic.png](https://github.com/coderhackx/Matlab_Assignments/blob/main/Images/ex10pic.png))
+![image](https://github.com/coderhackx/Matlab_Assignments/blob/main/Images/ex10pic.png)
