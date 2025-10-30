@@ -21,8 +21,8 @@ Explanation: This ripple is the Gibbs phenomenon, caused by the abrupt truncatio
 3. Computational CostLearning Point:
  The M=64 filter has 65 coefficients (taps), while the M=20 filter has 21. Implementing the M=64 filter requires more than three times the computational effort (more multiplications and additions per output sample). This demonstrates the practical engineering constraint: better filter performance (steeper roll-off) comes directly at the cost of higher computational complexity and greater processing delay.
 
- ![images](https://github.com/Khan548-codes/exercise12_fir_lowpass-/blob/main/images/ss1.png)
- ![images](https://github.com/Khan548-codes/exercise12_fir_lowpass-/blob/main/images/ss2.png)
- ![images](https://github.com/Khan548-codes/exercise12_fir_lowpass-/blob/main/images/ss3.png)
- ![images](https://github.com/Khan548-codes/exercise12_fir_lowpass-/blob/main/images/ss4.png)
- ![images](https://github.com/Khan548-codes/exercise12_fir_lowpass-/blob/main/images/ss5.png)
+ ![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Exercise_12/images/ss1.png)
+ ![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Exercise_12/images/ss2.png)
+ ![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Exercise_12/images/ss3.png)
+ ![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Exercise_12/images/ss4.png)
+ ![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Exercise_12/images/ss5.png)
