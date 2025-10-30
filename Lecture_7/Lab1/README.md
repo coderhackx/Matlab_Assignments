@@ -1,13 +1,13 @@
 # Lecture7_Lab1
 
-![images](https://github.com/Khan548-codes/Lecture7_Lab1/blob/main/Images/ss1.png)
-![images](https://github.com/Khan548-codes/Lecture7_Lab1/blob/main/Images/ss2.png)
-![images](https://github.com/Khan548-codes/Lecture7_Lab1/blob/main/Images/ss3.png)
-![images](https://github.com/Khan548-codes/Lecture7_Lab1/blob/main/Images/ss4.png)
-![images](https://github.com/Khan548-codes/Lecture7_Lab1/blob/main/Images/ss5.png)
-![images](https://github.com/Khan548-codes/Lecture7_Lab1/blob/main/Images/ss6%20(2).png)
-![images](https://github.com/Khan548-codes/Lecture7_Lab1/blob/main/Images/ss7.png)
-![images](https://github.com/Khan548-codes/Lecture7_Lab1/blob/main/Images/ss8%20(2).png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab1/Images/ss1.png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab1/Images/ss2.png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab1/Images/ss3.png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab1/Images/ss4.png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab1/Images/ss5.png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab1/Images/ss6%20(2).png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab1/Images/ss1.png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab1/Images/ss8%20(2).png)
 
 0) Setup: Focusing on Luminance 💡
 I began by converting the loaded image to grayscale to focus solely on luminance as the 2D signal for processing. This confirmed the image was 8-bit, giving me 256 intensity levels to work with.
