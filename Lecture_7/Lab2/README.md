@@ -1,9 +1,10 @@
 # Lecture7_Lab2
-![images](https://github.com/Khan548-codes/Lecture7_Lab2/blob/main/images/sss1.png)
-![images](https://github.com/Khan548-codes/Lecture7_Lab2/blob/main/images/sss2.png)
-![images](https://github.com/Khan548-codes/Lecture7_Lab2/blob/main/images/sss3.png)
-![images](https://github.com/Khan548-codes/Lecture7_Lab2/blob/main/images/sss4.png)
-![images](https://github.com/Khan548-codes/Lecture7_Lab2/blob/main/images/sss5.png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab2/images/sss1.png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab2/images/sss2.png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab2/images/sss3.png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab2/images/sss4.png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab2/images/sss5.png)
+
 
 0) Load Image 🏞️
 I started by loading the image and converting it to grayscale. This simplified the subsequent convolution experiments, as working with intensity changes rather than color channels is sufficient for analyzing filter responses.
