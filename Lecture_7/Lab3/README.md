@@ -17,7 +17,7 @@ This step validates the theory. We compare the result of using the imfilter func
 6) Reflections
 Why does ideal LP cause ringing (Gibbs phenomenon)?It's caused by the filter's abrupt, hard cutoff in the frequency domain. This sudden truncation introduces high-frequency oscillations into the spatial domain image, which appear as ripples near sharp edges.What does fftshift do visually?It moves the image's DC component (zero frequency) from the top-left corner of the spectrum to the center of the display, making the spectrum symmetrical and much easier for a human to interpret.When is frequency-domain filtering computationally preferable?It's faster than spatial convolution when dealing with large images or when using a large spatial filter kernel. The FFT-based approach scales much more efficiently for these cases.
 
-![images](https://github.com/Khan548-codes/Lab-7_Lab-3-Frequency-Domain-Filtering-with-fft2/blob/main/images/p1.png)
-![images](https://github.com/Khan548-codes/Lab-7_Lab-3-Frequency-Domain-Filtering-with-fft2/blob/main/images/p2.png)
-![images](https://github.com/Khan548-codes/Lab-7_Lab-3-Frequency-Domain-Filtering-with-fft2/blob/main/images/p3.png)
-![images](https://github.com/Khan548-codes/Lab-7_Lab-3-Frequency-Domain-Filtering-with-fft2/blob/main/images/p4.png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab3/images/p1.png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab3/images/p2.png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab3/images/p3.png)
+![images](https://github.com/coderhackx/Matlab_Assignments/blob/main/Lecture_7/Lab3/images/p4.png)
