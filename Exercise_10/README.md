@@ -1,7 +1,6 @@
 # Results
 
-![image](/exercise-10/Figure_1_Exercise_10.png)
-
+![image](/Exercise_10/Figure_1_Exercise_10.png)
 
 
 ## FIR (Finite Impulse Response)
