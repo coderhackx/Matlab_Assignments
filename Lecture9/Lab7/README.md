@@ -7,8 +7,7 @@
 
 # Results
 
-| <p align="center"><img src="/lecture_9_lab_7/figure_7.png"/><br/>Figure 1</p> |
-| ---------------------------------------------------------------------------------- |
+| <p align="center"><img src="/Lecture9/Lab7/figure_7.png"/><br/>Figure 1</p> || ---------------------------------------------------------------------------------- |
 
 
 ## 1. Objective
