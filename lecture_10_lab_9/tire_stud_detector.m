@@ -1,5 +1,5 @@
 %% tire_stud_detector
-%% Md Sajib Pramanic
+%% Abdul Nizer
 
 clear; clc; close all;
 
