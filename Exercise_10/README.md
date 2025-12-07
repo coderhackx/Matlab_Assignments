@@ -61,11 +61,3 @@ This is a first‑order low‑pass with one pole at z = 1 − α (inside the uni
 ---
 
 
-## Run the code
-
-Clone the git repository
-
-```bash
-git clone https://github.com/SAJIB3489/mathematical-algorithms.git
-cd exercise-10
-```
